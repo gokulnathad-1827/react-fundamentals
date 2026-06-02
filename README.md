@@ -29,7 +29,7 @@ This repository contains React practice programs and mini projects created while
 
 ## Author
 
-Nath
+Gokulnath D
 
 ## License
 
